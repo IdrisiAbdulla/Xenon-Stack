@@ -1,3 +1,55 @@
+# Login Page
+When we open the interface first of all log in page will show that means without bein looged in we can't move forward.
+Here mainly two details are mentioned for login purpose first one is email id and second one is password.
+
+
+![log in page](https://user-images.githubusercontent.com/98203259/200899988-1ce69e00-e3c9-4309-b568-40abf9bd8b65.jpg)
+
+
+If the user don't have an account to the site they will not be able to login.
+So for that here is a Register option on login page  which will navigate to the Register page .
+
+
+![Register page](https://user-images.githubusercontent.com/98203259/200901014-658317ca-daf5-4d98-9270-b9f652804c02.jpg)
+
+
+After filling the following information required in register page user have to submit the form,  entered data will be stored in the database. After successfull submission this page will be shown
+
+
+![Log successfull](https://user-images.githubusercontent.com/98203259/200901479-0bbb1cf5-9ecd-40d7-96b8-94d13cebde25.jpg)
+
+
+Now user have successfully register so by using the registered email id and password user can login to the main page successfully .If the user don't fill the correct 
+information required in login page then this captcha will be shown -:
+
+
+![log failed](https://user-images.githubusercontent.com/98203259/200901973-15c96d57-8931-428a-a1ee-9dd820f04a5e.jpg)
+
+
+If the user filled the correct information required in login page then this captcha will be shown -:
+
+
+![Log successfull](https://user-images.githubusercontent.com/98203259/200902195-5d55ccd8-8466-467a-9011-c3a40f80b3e0.jpg)
+
+
+After the successfull login, user can access the home page where multiple products will be shown in a grid form as shown in above images
+
+
+![home page](https://user-images.githubusercontent.com/98203259/200902508-408e15fa-84ed-45b1-a8f1-8780c5e29573.jpg)
+
+
+On to the contact us page user's are able to contact with us and they can send their email id and their valuable message to us for further contact and also they can contact with us by using the detalis which are given in the above page  
+
+
+![contact us page](https://user-images.githubusercontent.com/98203259/200903012-ebb9f30f-e822-401b-81d0-ea70f7204927.jpg)
+
+
+when the user sent the message successfully all the informaition such as his email id ,name ,message will be stored in database and this captcha will be shown for the confirmation.
+
+
+![message sent](https://user-images.githubusercontent.com/98203259/200903200-a798c32b-7cd8-4302-9615-43d8319c3bdf.jpg)
+
+
 
 # Getting Started with Create React App
 
