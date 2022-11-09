@@ -3,27 +3,27 @@ When we open the interface first of all log in page will show that means without
 Here mainly two details are mentioned for login purpose first one is email id and second one is password.
 
 
-![log in page](https://user-images.githubusercontent.com/98203259/200899988-1ce69e00-e3c9-4309-b568-40abf9bd8b65.jpg)
+![loginpage 01](https://user-images.githubusercontent.com/98203259/200909256-74618bae-fdcd-41b9-b1e8-8b6f9d64fae7.jpg)
 
 
 If the user don't have an account to the site they will not be able to login.
 So for that here is a Register option on login page  which will navigate to the Register page .
 
 
-![Register page](https://user-images.githubusercontent.com/98203259/200901014-658317ca-daf5-4d98-9270-b9f652804c02.jpg)
+![Registerpage 01](https://user-images.githubusercontent.com/98203259/200909321-4a8f4924-2463-40da-b401-da575777ff61.jpg)
 
 
 After filling the following information required in register page user have to submit the form,  entered data will be stored in the database. After successfull submission this page will be shown
 
 
-![Log successfull](https://user-images.githubusercontent.com/98203259/200901479-0bbb1cf5-9ecd-40d7-96b8-94d13cebde25.jpg)
+![register success full](https://user-images.githubusercontent.com/98203259/200906826-1702f785-a962-4b1e-8bf1-17df0e63342e.jpg)
 
 
 Now user have successfully register so by using the registered email id and password user can login to the main page successfully .If the user don't fill the correct 
 information required in login page then this captcha will be shown -:
 
 
-![log failed](https://user-images.githubusercontent.com/98203259/200901973-15c96d57-8931-428a-a1ee-9dd820f04a5e.jpg)
+![Loginfailed 01](https://user-images.githubusercontent.com/98203259/200909410-99299528-441b-4825-9be5-38fe1c5823e3.jpg)
 
 
 If the user filled the correct information required in login page then this captcha will be shown -:
